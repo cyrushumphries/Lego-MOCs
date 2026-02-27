@@ -2,8 +2,5 @@
 
 ![Render](./Airballoon.jpg)
 
-**Piece count:** 68  
-**Difficulty:** Easy  
-
-## Instructions
-- [Download PDF](./Lego_Steampunk_Airballoon.pdf)
+**Piece count:** 68
+**Difficulty:** Easy

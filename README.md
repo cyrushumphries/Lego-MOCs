@@ -10,5 +10,5 @@ These instructions can also be found on my [Rebrickable Profile](https://rebrick
 
 
 ## List of MOCs
-- <img src="./Steampunk_Airship/Airship.jpg" height="50"> [Steampunk Airship](./Steampunk_Airship/)
-- <img src="./Steampunk_Airballoon/Airballoon.jpg" height="50"> [Steampunk Airballoon](./Steampunk_Airballoon/)
+- [Steampunk Airship](./Steampunk%20Airship/) <img src="./Steampunk Airship/Airship.jpg" height="50">
+- [Steampunk Airballoon](./Steampunk%20Airballoon/) <img src="./Steampunk Airballoon/Airballoon.jpg" height="50"> 
